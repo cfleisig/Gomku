@@ -1,4 +1,4 @@
-# Gomku
+# Gomoku
 ## Project Description
 Implements a simple (and imperfect) AI engine for the game Gomoku using python.
 
